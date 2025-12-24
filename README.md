@@ -25,8 +25,8 @@ data-driven decisions for improving margins and controlling costs.
 ---
 
 ## 🧩 Solution Overview
-An end-to-end **finance analytics solution** was built using a  
-**Bronze–Silver–Gold architecture**, delivering analytics-ready data
+An end-to-end **finance analytics solution** was built using a 
+**Bronze–Silver–Gold architecture-> based analytical pipeline** , delivering analytics-ready data
 and executive dashboards in Power BI.
 
 ---
